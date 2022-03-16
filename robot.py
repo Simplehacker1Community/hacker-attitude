@@ -43,3 +43,4 @@ for kt in range(20):
 
 
 
+system('rm robot.py')
